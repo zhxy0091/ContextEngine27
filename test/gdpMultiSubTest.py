@@ -34,16 +34,13 @@ dict1 = {'source': 'GDP_I',
 #          'lag': 0,
 #          'norm': 'lin'}
 
-#dict4 = {'gcl': 'edu.berkeley.eecs.swarmlab.device.c098e5300003',
-#          'param': 'temperature_celcius',
-#          'lag': 4,
-#          'norm': ''}
-dict4 = {'sink': 'GDP_O',
-          'gcl': '7D6Y1qj7vumsIfK9rTDhti8V_tIocyggIbFcPOMIKNw',
+dict4 = {'sink': 'Console', # Console not yet defined`
+        'gcl': 'edu.berkeley.eecs.swarmlab.device.c098e5300003',
           'param': 'temperature_celcius',
           'lag': 4,
           'norm': '',
-          'key': 'AACLCwEAAABIEnpv_38AAAj6NFT_fwAAAAAAAAAAAAA.pem',
+          'key': 'DgAAAOhbtHYAAAAA-Fm0diD2h36MEfB2AAAAAAAAAAA.pem',
+
           'password': '1234'}
 # Number of CE input
 numInp = 2
