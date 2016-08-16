@@ -25,11 +25,11 @@ dict0 = {'source': 'GDP_I',
           'lag': 0,
           'norm': 'lin'}
 dict4 = {'sink': 'GDP_O',
-          'gcl': 'Kxm3QbR7DUbZedPo_q222G1RZmq6FT5acmNErEYX-QA',
+          'gcl': '7D6Y1qj7vumsIfK9rTDhti8V_tIocyggIbFcPOMIKNw',
           'param': 'temperature_celcius',
           'lag': 4,
           'norm': '',
-          'key': 'APByDwEAAABIUiRo_38AAAALTVD_fwAAAAAAAAAAAAA.pem',
+          'key': 'AACLCwEAAABIEnpv_38AAAj6NFT_fwAAAAAAAAAAAAA.pem',
           'password': '1234'}
 # Number of CE input
 numInp = 1
